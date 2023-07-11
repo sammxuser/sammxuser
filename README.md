@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sammxuser
+- 👋 Hi, I’m Sam,
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Django/Vue Web Application Development
+- 🌱 I’m currently learning Django Web Application Development
 - 💞️ I’m looking to collaborate on Python/Django
 - 📫 How to reach me on email at sammxuser@gmail.com or @sammxuser on twitter.
 Cheers
