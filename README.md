@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam,
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Django Web Application Development
-- 💞️ I’m looking to collaborate on Python/Django
+- 👀 I’m interested in Python and Javascript Programming
+- 🌱 I’m currently learning Javascript and Django for Web Application Development
+- 💞️ I’m looking to collaborate on Python/Django/Javascript
 - 📫 How to reach me on email at sammxuser@gmail.com or @sammxuser on twitter.
 Cheers
 
